@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---src-templates-cara-tsx-ead464b8fb45668b7c70.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-ba5ee410aad77f954ff6.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-cf3449336029b3ef1d7f.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/sachin/
+  Link: </sachin/webpack-runtime-ba5ee410aad77f954ff6.js>; rel=preload; as=script
+  Link: </sachin/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </sachin/app-cf3449336029b3ef1d7f.js>; rel=preload; as=script
+  Link: </sachin/component---src-templates-cara-tsx-ead464b8fb45668b7c70.js>; rel=preload; as=script
+  Link: </sachin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sachin/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/sachin/offline-plugin-app-shell-fallback/
+  Link: </sachin/webpack-runtime-ba5ee410aad77f954ff6.js>; rel=preload; as=script
+  Link: </sachin/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </sachin/app-cf3449336029b3ef1d7f.js>; rel=preload; as=script
+  Link: </sachin/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </sachin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sachin/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
